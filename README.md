@@ -12,7 +12,7 @@ In order to start using this repo, start by cloning this repo to create a new
 package::
 
 ```
-  $ git clone https://github.com/gather-community/mailman-nested-plugin nesed-nodecorate-plugin
+  $ git clone https://github.com/gather-community/mailman-nested-plugin nested-nodecorate-plugin
   $ cd nested-nodecorate-plugin
 ```
 Install it in a Python virtualenv using``pip``::
